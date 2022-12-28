@@ -1,0 +1,11 @@
+package com.mens1s.springDemo;
+
+public class FatihTerim implements Coach{
+
+	@Override
+	public String getDailyWorkout() {
+
+		return "Eeee, tarihleri biz yazarız diğerleri";
+	}
+	
+}

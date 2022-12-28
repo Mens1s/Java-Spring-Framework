@@ -1,0 +1,7 @@
+package com.mens1s.springDemo;
+
+public class helloSpringApp {
+	public static void main(String[] args) {
+		
+	}
+}
