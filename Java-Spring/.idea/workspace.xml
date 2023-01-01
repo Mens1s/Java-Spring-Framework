@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8872a318-d0f3-4462-9a98-1a4347e39304" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/BaseballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/Coach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/FatihTerim.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/FatihTerim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/bin/com/mens1s/springDemo/TrackCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/FatihTerim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/FatihTerim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/helloSpringApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../A_Java-Spring-Basics/spring_demo_one/src/com/mens1s/springDemo/helloSpringApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Je2WslzNyjEas0L6l4Sf9tYPEh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ahmet/Desktop/code/java/Java-102",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8872a318-d0f3-4462-9a98-1a4347e39304" name="Changes" comment="" />
+      <created>1672424272525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672424272525</updated>
+      <workItem from="1672424273525" duration="29000" />
+    </task>
+    <servers />
+  </component>
+</project>

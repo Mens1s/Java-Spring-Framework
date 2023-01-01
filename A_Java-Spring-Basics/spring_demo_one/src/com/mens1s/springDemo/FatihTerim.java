@@ -7,5 +7,11 @@ public class FatihTerim implements Coach{
 
 		return "Biz 'bitti' demeden bitmez! || It's not over until we say 'it's over'! ";
 	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
